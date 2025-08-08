@@ -22,13 +22,13 @@ WordPress · Shopify · Elementor · WooCommerce . react · PHP · JavaScript ·
 
 📬 Let’s Connect
 💼 Portfolio Website
-Mataishcouture.com
-Gujaratikoalamom.com
-Bata.com
-Nalgene.com
-Tobiasbecs.com
+https://Mataishcouture.com
+https://Gujaratikoalamom.com
+https://Bata.com
+https://Nalgene.com
+https://Tobiasbecs.com
 https://divanalounge.co.uk/
-syedazainabtrust.org.uk
+https://syedazainabtrust.org.uk
 https://leatherxcouture.com/
 
 📧 Email: muhammad.sameer0100@gmail.com
