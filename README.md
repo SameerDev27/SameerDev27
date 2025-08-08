@@ -34,4 +34,3 @@ https://leatherxcouture.com/
 📧 Email: muhammad.sameer0100@gmail.com
 🌐 LinkedIn | https://www.linkedin.com/in/muhammad-sameer-55a346203/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
